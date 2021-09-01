@@ -1,0 +1,5 @@
+target
+jboss-eap-7.3*
+/jboss-eap-6.4 - Copy/
+*.iml
+/.idea
